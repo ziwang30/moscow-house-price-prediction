@@ -1,3 +1,36 @@
-Challenge Description
+🏙️ Moscow Apartment Price Prediction
+    
+    This project is part of my machine learning coursework. The goal was to predict apartment prices in Moscow using a dataset of over 33,000 listings with 30+ features (location, building type, size, etc.).
 
-In this challenge, you will predict the prices of apartments in Moscow. Real estate is a popular investment vehicle and can be pretty lucurative. Whether you're an individual looking for a place to call home or an investor looking for a profitable opportunity, being able to appraise assets accurately - or at least better than the next guy - can be of huge value. We have procured a dataset consisting of information about over 33,000 apartments in Moscow. It contains around 30 variables that encode data such as location, facilities, and building information. Your task is to do analysis, feature engineering, and ultimately create models that can reliably predict the listed price of both low- and high-end apartments. To get started, please make yourself familiar with the Kaggle competition page. The data can be found under the [Data](data) tab. A more hands-on tutorial of the data can be found in the Introduction Notebook accessible from the [Code](code) tab. Once you have created a submission yourself, the score will show up in the [Leaderboard](leaderboard) tab. Click the [Evaluation](overview/evaluation) section in the menu to the left to see how the scores are calculated.
+📌 Task
+
+    Build a regression model to predict apartment prices using real-world data.
+
+🔧 Tools
+
+    Python
+    
+    Pandas, NumPy, matplotlib, seaborn, scipy
+
+    Scikit-learn, flaml
+
+    lightgbm, catboost
+
+
+🧪 Workflow
+    
+    Exploratory Data Analysis (EDA)
+    
+    Attempted models and hyperparameter tuning
+
+    Interpretation and explainability
+
+    Validation
+
+
+💡 Key Learnings
+    Hands-on experience with regression modeling
+
+    Importance of feature engineering and model tuning
+
+    End-to-end ML pipeline implementation
